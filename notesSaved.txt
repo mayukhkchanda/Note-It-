@@ -1,0 +1,179 @@
+
+Note#2: According to radiometric dating estimation and other evidence, Earth formed over 4.5 billion years ago. Within the first billion years of
+ Earth's history, life appeared in the oceans and began to affect Earth's atmosphere and surface, leading to the proliferation of
+ anaerobic and, later, aerobic organisms. Some geological evidence indicates that life may have arisen as early as 4.1 billion years ago.
+ Since then, the combination of Earth's distance from the Sun, physical properties and geological history have allowed life to evolve
+ and thrive. In the history of life on Earth, biodiversity has gone through long periods of expansion, occasionally punctuated by
+ mass extinctions. Over 99% of all species that ever lived on Earth are extinct. Almost 8 billion humans live on Earth
+ and depend on its biosphere and natural resources for their survival. Humans increasingly impact Earth's hydrology, atmospheric processes and other
+ life.
+
+Note#3: The modern English word Earth developed, via Middle English, from an Old English noun most often spelled eorðe.[25] It has cognates
+ in every Germanic language, and their ancestral root has been reconstructed as *erþō. In its earliest attestation, the word eorðe
+ was already being used to translate the many senses of Latin terra and Greek γῆ gē: the ground, its soil,
+ dry land, the human world, the surface of the world (including the sea), and the globe itself. As with Roman
+ Terra/Tellūs and Greek Gaia, Earth may have been a personified goddess in Germanic paganism: late Norse mythology included Jörð ('Earth'),
+ a giantess often given as the mother of Thor.[26]
+
+Note#4: Historically, earth has been written in lowercase. From early Middle English, its definite sense as "the globe" was expressed as the
+ earth. By Early Modern English, many nouns were capitalized, and the earth was also written the Earth, particularly when referenced
+ along with other heavenly bodies. More recently, the name is sometimes simply given as Earth, by analogy with the names
+ of the other planets, though earth and forms with the remain common.[25] House styles now vary: Oxford spelling recognizes the
+ lowercase form as the most common, with the capitalized form an acceptable variant. Another convention capitalizes "Earth" when appearing as
+ a name (for example, "Earth's atmosphere") but writes it in lowercase when preceded by the (for example, "the atmosphere of
+ the earth"). It almost always appears in lowercase in colloquial expressions such as "what on earth are you doing?"[27]
+
+Note#1: Earth orbits the Sun at an average distance of about 150 million km (93 million mi) every 365.2564 mean solar days, or one sidereal year.
+ This gives an apparent movement of the Sun eastward with respect to the stars at a rate of about 1°/day,
+ which is one apparent Sun or Moon diameter every 12 hours. Due to this motion, on average it takes 24 hours—a solar
+ day—for Earth to complete a full rotation about its axis so that the Sun returns to the meridian. The orbital
+ speed of Earth averages about 29.78 km/s (107,200 km/h; 66,600 mph), which is fast enough to travel a distance equal to Earth's diameter,
+ about 12,742 km (7,918 mi), in seven minutes, and the distance to the Moon, 384,000 km (239,000 mi), in about 3.5 hours.[5]
+
+Note#1: Earth orbits the Sun at an average distance of about 150 million km (93 million mi) every 365.2564 mean solar days, or one sidereal year.
+ This gives an apparent movement of the Sun eastward with respect to the stars at a rate of about 1°/day,
+ which is one apparent Sun or Moon diameter every 12 hours. Due to this motion, on average it takes 24 hours—a solar
+ day—for Earth to complete a full rotation about its axis so that the Sun returns to the meridian. The orbital
+ speed of Earth averages about 29.78 km/s (107,200 km/h; 66,600 mph), which is fast enough to travel a distance equal to Earth's diameter,
+ about 12,742 km (7,918 mi), in seven minutes, and the distance to the Moon, 384,000 km (239,000 mi), in about 3.5 hours.[5]
+
+Note#2: The Moon and Earth orbit a common barycenter every 27.32 days relative to the background stars. When combined with the Earth–Moon system's
+ common orbit around the Sun, the period of the synodic month, from new moon to new moon, is 29.53 days. Viewed
+ from the celestial north pole, the motion of Earth, the Moon, and their axial rotations are all counterclockwise. Viewed from
+ a vantage point above the north poles of both the Sun and Earth, Earth orbits in a counterclockwise direction about
+ the Sun. The orbital and axial planes are not precisely aligned: Earth's axis is tilted some 23.44 degrees from the perpendicular
+ to the Earth–Sun plane (the ecliptic), and the Earth–Moon plane is tilted up to ±5.1 degrees against the Earth–Sun plane. Without
+ this tilt, there would be an eclipse every two weeks, alternating between lunar eclipses and solar eclipses.[5][152]
+
+Note#3: The Hill sphere, or the sphere of gravitational influence, of Earth is about 1.5 million km (930,000 mi) in radius.[153][n 11] This is the
+ maximum distance at which Earth's gravitational influence is stronger than the more distant Sun and planets. Objects must orbit Earth
+ within this radius, or they can become unbound by the gravitational perturbation of the Sun.[153]  Earth, along with the
+ Solar System, is situated in the Milky Way and orbits about 28,000 light-years from its center. It is about 20 light-years above
+ the galactic plane in the Orion Arm.[154]
+
+Note#1: In the eighteenth century, comparison between lunar theory and observation was used to test Newton's law of universal gravitation by the
+ motion of the lunar apogee. In the eighteenth and nineteenth centuries, navigational tables based on lunar theory, initially in the
+ Nautical Almanac, were much used for the determination of longitude at sea by the method of lunar distances. In the
+ very early twentieth century, comparison between lunar theory and observation was used in another test of gravitational theory, to test
+ (and rule out) Simon Newcomb's suggestion that a well-known discrepancy in the motion of the perihelion of Mercury might be
+ explained by a fractional adjustment of the power -2 in Newton's inverse square law of gravitation[1] (the discrepancy was later
+ successfully explained by the general theory of relativity).
+
+Note#2: To the Babylonian astronomer Kidinnu (in Greek or Latin, Kidenas or Cidenas) has been attributed the invention (5th or 4th century BC) of
+ what is now called “System  B” for predicting the position of the moon, taking account that the moon continually changes
+ its speed along its path relative to the background of fixed stars. This system involved calculating daily stepwise changes of
+ lunar speed, up or down, with a minimum and a maximum approximately each month.[6] The basis of these systems appears
+ to have been arithmetical rather than geometrical, but they did approximately account for the main lunar inequality now known as
+ the equation of the center.
+
+Note#1: Hipparchus, whose works are mostly lost and known mainly from quotations by other authors, assumed that the Moon moved in a
+ circle inclined at 5° to the ecliptic, rotating in a retrograde direction (i.e. opposite to the direction of annual and
+ monthly apparent movements of the Sun and Moon relative to the fixed stars) once in 18​2⁄3 years. The circle acted
+ as a deferent, carrying an epicycle along which the Moon was assumed to move in a retrograde direction. The center
+ of the epicycle moved at a rate corresponding to the mean change in Moon's longitude, while the period of the
+ Moon around the epicycle was an anomalistic month. This epicycle approximately provided for what was later recognized as the elliptical
+ inequality, the equation of the center, and its size approximated to an equation of the center of about 5° 1'.
+ This figure is much smaller than the modern value: but it is close to the difference between the modern coefficients
+ of the equation of the center (1st term) and that of the evection: the difference is accounted for by the
+ fact that the ancient measurements were taken at times of eclipses, and the effect of the evection (which subtracts under
+ those conditions from the equation of the center) was at that time unknown and overlooked. For further information see also
+ separate article Evection.
+
+Note#2: During the Second World War, Turing worked for the Government Code and Cypher School (GC&CS) at Bletchley Park, Britain's codebreaking centre
+ that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis.
+ Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish
+ bombe method, an electromechanical machine that could find settings for the Enigma machine.
+
+Note#3: Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Nazis in many crucial
+ engagements, including the Battle of the Atlantic, and in so doing helped win the war.[12][13] Due to the problems of
+ counterfactual history, it is hard to estimate the precise effect Ultra intelligence had on the war,[14] but at the upper
+ end it has been estimated that this work shortened the war in Europe by more than two years and saved
+ over 14 million lives.[12]
+
+Note#4: After the war, Turing worked at the National Physical Laboratory, where he designed the Automatic Computing Engine. The Automatic Computing Engine
+ was one of the first designs for a stored-program computer. In 1948, Turing joined Max Newman's Computing Machine Laboratory, at
+ the Victoria University of Manchester, where he helped develop the Manchester computers[15] and became interested in mathematical biology. He wrote
+ a paper on the chemical basis of morphogenesis[1] and predicted oscillating chemical reactions such as the Belousov–Zhabotinsky reaction, first observed
+ in the 1960s.  Turing was prosecuted in 1952 for homosexual acts; the Labouchere Amendment of 1885 had mandated that
+ "gross indecency" was a criminal offence in the UK. He accepted chemical castration treatment, with DES, as an alternative to
+ prison. Turing died in 1954, 16 days before his 42nd birthday, from cyanide poisoning. An inquest determined his death as
+ a suicide, but it has been noted that the known evidence is also consistent with
+
+Note#1: Turing was born in Maida Vale, London,[7] while his father, Julius Mathison Turing (1873–1947), was on leave from his position with
+ the Indian Civil Service (ICS) at Chatrapur, then in the Madras Presidency and presently in Odisha state, in India.[17][18] Turing's
+ father was the son of a clergyman, the Rev. John Robert Turing, from a Scottish family of merchants that had been
+ based in the Netherlands and included a baronet. Turing's mother, Julius's wife, was Ethel Sara Turing (née Stoney 1881–1976),[7] daughter of
+ Edward Waller Stoney, chief engineer of the Madras Railways. The Stoneys were a Protestant Anglo-Irish gentry family from both County
+ Tipperary and County Longford, while Ethel herself had spent much of her childhood in County Clare.[19]
+
+Note#2: Turing's parents enrolled him at St Michael's, a day school at 20 Charles Road, St Leonards-on-Sea, at the age of six.
+ The headmistress recognised his talent early on, as did many of his subsequent teachers.  Between January 1922 and 1926,
+ Turing was educated at Hazelhurst Preparatory School, an independent school in the village of Frant in Sussex (now East Sussex).[30]
+ In 1926, at the age of 13, he went on to Sherborne School,[31] a boarding independent school in the market
+ town of Sherborne in Dorset, where he boarded at Westcott House. The first day of term coincided with the 1926
+ General Strike, in Britain, but Turing was so determined to attend, that he rode his bicycle unaccompanied 60 miles (97 km)
+ from Southampton to Sherborne, stopping overnight at an inn.[32]  Turing's natural inclination towards mathematics and science did not earn
+ him respect from some of the teachers at Sherborne, whose definition of education placed more emphasis on the classics. His
+ headmaster wrote to his parents: "I hope he will not fall between two stools. If he is to stay at
+ public school, he must aim at becoming educated. If he is to be solely a Scientific Specialist, he is wasting
+ his time at a public school".[33] Despite this, Turing continued to show remarkable ability in the studies he loved, solving
+ advanced problems in 1927 without having studied even elementary calculus. In 1928, aged 16, Turing encountered Albert Einstein's work; not
+ only did he grasp it, but it is possible that he managed to deduce Einstein's questioning of Newton's laws of
+ motion from a text in which this was never made explicit.[34]
+
+Note#3: In 1936, Turing published his paper "On Computable Numbers, with an Application to the Entscheidungsproblem".[49] It was published in the Proceedings
+ of the London Mathematical Society journal in two parts, the first on 30 November and the second on 23 December.[50]
+ In this paper, Turing reformulated Kurt Gödel's 1931 results on the limits of proof and computation, replacing Gödel's universal arithmetic-based
+ formal language with the formal and simple hypothetical devices that became known as Turing machines. The Entscheidungsproblem (decision problem) was
+ originally posed by German mathematician David Hilbert in 1928. Turing proved that his "universal computing machine" would be capable of
+ performing any conceivable mathematical computation if it were representable as an algorithm. He went on to prove that there was
+ no solution to the decision problem by first showing that the halting problem for Turing machines is undecidable: it is
+ not possible to decide algorithmically whether a Turing machine will ever halt. This paper has been called "easily the most
+ influential math paper in history".[51]
+
+Note#1: From September 1938, Turing worked part-time with the Government Code and Cypher School (GC&CS), the British codebreaking organisation. He concentrated on
+ cryptanalysis of the Enigma cipher machine used by Nazi Germany, together with Dilly Knox, a senior GC&CS codebreaker.[64] Soon after
+ the July 1939 meeting near Warsaw at which the Polish Cipher Bureau gave the British and French details of the
+ wiring of Enigma machine's rotors and their method of decrypting Enigma machine's messages, Turing and Knox developed a broader solution.[65]
+ The Polish method relied on an insecure indicator procedure that the Germans were likely to change, which they in fact
+ did in May 1940. Turing's approach was more general, using crib-based decryption for which he produced the functional specification of
+ the bombe (an improvement on the Polish Bomba).[66]
+
+Note#2: On 4 September 1939, the day after the UK declared war on Germany, Turing reported to Bletchley Park, the wartime station
+ of GC&CS.[67] Specifying the bombe was the first of five major cryptanalytical advances that Turing made during the war. The
+ others were: deducing the indicator procedure used by the German navy; developing a statistical procedure dubbed Banburismus for making much
+ more efficient use of the bombes; developing a procedure dubbed Turingery for working out the cam settings of the wheels
+ of the Lorenz SZ 40/42 (Tunny) cipher machine and, towards the end of the war, the development of a portable
+ secure voice scrambler at Hanslope Park that was codenamed Delilah.
+
+Note#1: uring decided to tackle the particularly difficult problem of German naval Enigma "because no one else was doing anything about it
+ and I could have it to myself".[91] In December 1939, Turing solved the essential part of the naval indicator system,
+ which was more complex than the indicator systems used by the other services.[91][92]  That same night, he also conceived
+ of the idea of Banburismus, a sequential statistical technique (what Abraham Wald later called sequential analysis) to assist in breaking
+ the naval Enigma, "though I was not sure that it would work in practice, and was not, in fact, sure
+ until some days had actually broken."[91] For this, he invented a measure of weight of evidence that he called the
+ ban. Banburismus could rule out certain sequences of the Enigma rotors, substantially reducing the time needed to test settings on
+ the bombes.[93] Later this sequential process of accumulating sufficient weight of evidence using decibans (one tenth of a ban) was
+ used in Cryptanalysis of the Lorenz cipher.[94]  Turing travelled to the United States in November 1942[95] and worked with
+ US Navy cryptanalysts on the naval Enigma and bombe construction in Washington; he also visited their Computing Machine Laboratory in
+ Dayton, Ohio.  Turing's reaction to the American bombe design was far from enthusiastic:
+
+Note#1: This is the final part of the 'Buzz This' Chrome Extension series, in the first post I showed you how to
+ create a basic Chrome Extension. We then expanded on it in the 2nd post showing you how to use XHR
+ and some advanced features of browser_actions.  In this post, I will show you how to quickly integrate Context Menus
+ into Chrome Extensions. Why am I integrating Context Menus? Because they are a powerful hook in to your extension, and
+ I want to be able to let users 'Buzz' about specific things on any page, for instance, if they find
+ an interesting image, they can Buzz just that rather than the entire page. It is pretty powerful.
+
+Note#2: The code is pretty simple, and should show you how easy it is to get started.  Context menus are pretty
+ powerful and have the ability to be present through-out the life time of a users browsing experience, as such you
+ must declare in your manifest the intention to use Context Menus. It is a pretty simple addition to the 'permissions'
+ array in the manifest.
+
+Note#3: Seriously, that is it. The Context menu will be active on the page in general, on any text selection, image (or
+ element that has a 'src' attribute) and all links. There is a simple title 'Buzz This' that is display when
+ anyone of those elements is context clicked. An when the user selects our 'Buzz This' menu item our 'onclick' event
+ handler is called.  So what do we do in 'clickHandler' method? Well we handle the click obviously. In this
+ case, I will detect what was clicked. The reason for detecting what element is the context is that the Buzz
+ API that we are using allows you to pass in a few extra parameters such as the message (the selected
+ text), an image (if the context was an image) or a url (if a link is the context).

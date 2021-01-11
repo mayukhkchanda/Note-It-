@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AlUrNotes</title>
+</head>
+<style>
+    #header-id {
+        padding: 15px;
+        border: 1px solid #d6e9c6;
+         border-radius: 4px;
+        color: #023302;
+        background-color: #84df92;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        }
+    #header-id:hover{
+        background-color: #6cd144;
+        color: rgb(213, 245, 191);
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+   
+    #para { 
+        color: #0f0f0f;
+        font-family: 'Helvetica Neue', sans-serif;
+        font-size: 16px; line-height: 26px; text-indent: 30px; margin: 0;
+        letter-spacing: 1px; padding: 0 0 40px;
+        width: 70%;
+    }
+
+    #body-id{
+        background-color: rgb(245, 247, 245);
+        width: 100%;
+    }
+
+    .button {
+        background-color: #52c756; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+    }
+    
+        .button2:hover {
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+</style>
+
+<body id="body-id">
+
+<h1 id="header-id">Your Saved Notes</h1>
+<p id = 'para'></p>
+<button class='button button2' id='display'>Show Notes!</button>
+
+<script  src="snscript.js" >
+</script>
+
+</body>
+</html>
