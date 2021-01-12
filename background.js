@@ -36,7 +36,7 @@ function noteThisText(info)
   });
 
   var blob = new Blob([selectedstring],
-    {type:"text/plain;charset=UTS-8"}
+    {type:"text/plain;charset=UTF-8"}
   );
     saveAs(blob,"Note.txt");
 
