@@ -7,7 +7,7 @@
 	* To see all the saved notes click on the **Note It!** extension in the browser tab and click on the **your saved notes link**. A new tab would open, titled **AlurNotes**. Click on the **Show Notes!**, if there are any saved notes they will be displayed in order of which they were saved. If you haven't saved any notes then, a message would be show for the same.
 
 * ###  Dependencies for Additional Features  
-	* **_The module for these two dependencies have been provided. Any further dependency modules will not be tracked._**
+	* **_The module for these two dependencies have been provided in 'node_modules' folder. Any further dependency modules will not be tracked._**
 	1. **express** module
 	2. **mysql** module
 
@@ -22,11 +22,11 @@
 
 
 *	## Using Note It!
-	* 1. With the Note It! extension enabled, select a text you want to save.
-	* 2. Right click and select "Note It!" option from the context menu.
-	* 3. Your selected text would be downloaded in your "Downloads" directory(or to the directory your download path is set to).
+	1. With the Note It! extension enabled, select a text you want to save.
+	2. Right click and select "Note It!" option from the context menu.
+	3. Your selected text would be downloaded in your "Downloads" directory(or to the directory your download path is set to).
 	
 * ## Important Notes:
-	* ### 1. Un-Packed Extension. Must have developer options enable to use it.
-	* ### 2. Note It! only works in chrome browser.
-	* ### 3. Selected file is downloaded as a text file only.
+	1. ### Un-Packed Extension. Must have developer options enable to use it.
+	2. ### Note It! only works in chrome browser.
+	3. ### Selected file is downloaded as a text file only.
